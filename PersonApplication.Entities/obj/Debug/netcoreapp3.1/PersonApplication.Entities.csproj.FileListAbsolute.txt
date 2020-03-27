@@ -1,7 +1,0 @@
-C:\Users\sachin.gera\Source\Repos\PersonApplication\PersonApplication.Entities\bin\Debug\netcoreapp3.1\PersonApplication.Entities.deps.json
-C:\Users\sachin.gera\Source\Repos\PersonApplication\PersonApplication.Entities\bin\Debug\netcoreapp3.1\PersonApplication.Entities.dll
-C:\Users\sachin.gera\Source\Repos\PersonApplication\PersonApplication.Entities\obj\Debug\netcoreapp3.1\PersonApplication.Entities.AssemblyInfoInputs.cache
-C:\Users\sachin.gera\Source\Repos\PersonApplication\PersonApplication.Entities\obj\Debug\netcoreapp3.1\PersonApplication.Entities.AssemblyInfo.cs
-C:\Users\sachin.gera\Source\Repos\PersonApplication\PersonApplication.Entities\bin\Debug\netcoreapp3.1\PersonApplication.Entities.pdb
-C:\Users\sachin.gera\Source\Repos\PersonApplication\PersonApplication.Entities\obj\Debug\netcoreapp3.1\PersonApplication.Entities.dll
-C:\Users\sachin.gera\Source\Repos\PersonApplication\PersonApplication.Entities\obj\Debug\netcoreapp3.1\PersonApplication.Entities.pdb
